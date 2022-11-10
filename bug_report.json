@@ -1,1 +1,6 @@
-
+{"id":01,
+  "Summary":"error-999",
+  "Step number 1":"click login button",
+  "Actual result":"error-999",
+  "Expected result":"sign in",
+  "Severity":"blocer"}
